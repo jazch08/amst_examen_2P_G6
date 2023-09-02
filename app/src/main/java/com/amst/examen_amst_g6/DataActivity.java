@@ -55,14 +55,17 @@ public class DataActivity extends AppCompatActivity {
 
                     TextView fuegoTxt = new TextView(getApplicationContext());
                     fuegoTxt.setText(fuego);
-                    fuegoTxt.setPadding(0,0,10,5);
+                    fuegoTxt.setTextSize(15);
+                    fuegoTxt.setPadding(90,0,170,20);
 
                     TextView fechaTxt = new TextView(getApplicationContext());
                     fechaTxt.setText(fecha);
-                    fechaTxt.setPadding(0,0,10,5);
+                    fechaTxt.setTextSize(15);
+                    fechaTxt.setPadding(0,0,180,20);
 
                     TextView alarmaTxt = new TextView(getApplicationContext());
                     alarmaTxt.setText(alarma);
+                    alarmaTxt.setTextSize(15);
                     alarmaTxt.setPadding(0,0,0,5);
 
                     datos.addView(fuegoTxt);
