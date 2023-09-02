@@ -100,6 +100,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="100dp"
         android:clickable="true"
+        android:onClick="goBatery"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/baseline_battery_full_24" />
@@ -111,6 +112,7 @@
         android:layout_marginEnd="16dp"
         android:layout_marginBottom="30dp"
         android:clickable="true"
+        android:onClick="goData"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:srcCompat="@drawable/baseline_temple_hindu_24" />

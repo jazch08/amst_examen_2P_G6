@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "614217054833",
+    "firebase_url": "https://examen2amst-default-rtdb.firebaseio.com",
+    "project_id": "examen2amst",
+    "storage_bucket": "examen2amst.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614217054833:android:6da33e91c4387a023bf9d0",
+        "android_client_info": {
+          "package_name": "com.amst.examen_amst_g6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614217054833-vc7vrsk37uqr3qvi0vu42f3fectdugrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuS2GpwhsCp84Yl-5jK2jZ65ClyeLFGnw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614217054833-vc7vrsk37uqr3qvi0vu42f3fectdugrq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
